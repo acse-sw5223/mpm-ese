@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: primes
+Version: 0.1
+Summary: A simple package to work with prime numbers.
+Home-page: https://github.com/yourusername/primes
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/plain
+
+A longer description about the functions and         utilities provided by the primes package.
